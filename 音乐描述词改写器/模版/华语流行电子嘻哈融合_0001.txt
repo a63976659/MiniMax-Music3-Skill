@@ -1,0 +1,16 @@
+全局元数据
+基础属性：bpm 为 97。调性为 A，音阶为小调。C-Pop / 电子嘻哈融合 (Electronic Hip-Hop Fusion)。
+全局情绪走向：乐曲以空灵、神秘的氛围开场，迅速确立推进感十足、自信的动势。主歌 (Verse) 通过说唱 (rap) 演绎保持有节奏感、沉稳的张力，在副歌 (Chorus) 中爆发为辽阔、颂歌般的旋律。桥段 (Bridge) 引入片刻的氛围停顿，随后重建至最终的高能量高潮，将赋能般的基调保持到淡出。
+应用场景与意象：电影中高辛烷值的动作桥段、电竞精彩集锦，或以霓虹灯光景观与快速移动为特征的未来主义都市探索场景。
+声音质感与制作风格：混音精致、高保真，立体声宽度 (stereo image) 开阔。频谱由有力、深沉的低频与清脆、锐利的高频主导，中频保持清晰以容纳双歌者风格。制作上鼓组施以重度压缩 (compression) 获得冲击力，旋律元素则辅以开阔的混响 (reverb) 营造纵深。
+人声细节
+歌者性别与音色：Singer A (Female) 与 Singer B (Male)。Singer A 拥有明亮、高亢的女高音 (soprano) 音色，清澈、共鸣丰富，能够驾驭强力的强声 (belting)。Singer B 呈现粗粝、吐字清晰的男中音 (baritone) 质地，演绎有节奏感、打击乐式，适合连珠炮式 (rapid-fire) 的乐句。
+演唱风格：Singer A 采用旋律化、情绪饱满的风格，在副歌中运用持续长音与动态涌动传递宏大感。Singer B 以紧凑、断奏式 (staccato) 的 flow 演绎主歌，强调节奏精准度与歌词密度。两位歌者在段落间交替担任主唱，形成叙事对话而非同时演唱，仅终章有短暂的和声重叠。
+和声/伴唱：Singer A 的层叠自我叠录和声 (self-harmonies) 在副歌中大量出现，增厚旋律钩子 (Hook)。微妙的低音域伴唱 (backing vocals) 支撑 Singer B 的说唱段落，在不扰乱混音的前提下增添重量感。
+人声效果：Singer A 的人声施以大量的大厅混响 (hall reverb) 与延迟 (delay)，强化史诗规模感，长音处尤为明显。Singer B 的人声保持相对干声 (dry)、靠前，并加轻微饱和 (saturation)，突出吐字与侵略性。即兴加花 (ad-lib) 偶施变调 (pitch-shifting) 效果作为风格点缀。
+编曲
+乐器生命周期描述（主层/副层叠置）：
+主层：一个混合式合成器主奏 (hybrid synthesizer lead)——融合数字锯齿波 (saw wave) 与传统弦乐般织体——在前奏 (Intro)、副歌与尾奏 (Outro) 中承载主要旋律动机 (motif)。
+副层：一个深沉、带侧链 (side-chained) 的超低频 (sub-bass) 合成器支撑全曲，与底鼓 (kick) 紧密锁合。桥段中原声钢琴 (acoustic piano) 悄然进入，在最终铺垫推进段 (build-up) 前提供和声对比。传统拨弦乐器（令人联想到琵琶 (Pipa) 或古筝 (Guzheng)）经采样与合成化处理，以主歌中的节奏化琶音 (arpeggio) 与过渡段落中的旋律华彩出现。
+律动与根基声部走向：节奏部分由受现代陷阱 (trap) 影响的鼓机模式驱动。主歌以滚奏踩镲 (rolling hi-hat) 与锐利军鼓 (snare) 为特征，营造迫切感。副歌中底鼓更沉重、更趋四踩底鼓 (four-on-the-floor) 取向，伴以叠层拍手 (clap) 与开镲 (open hi-hat)，拓宽律动 (groove) 并提升舞曲感。
+点缀、织体与空间效果：影视感上扬音效 (riser) 与白噪音扫频 (white noise sweep) 标记段落间的过渡。氛围铺底 (pad) 在前奏与桥段中填充背景，营造辽阔空间感。反向吊镲 (reverse cymbal) 重击与故障式碎拍剪辑 (glitch-style stutter edit) 少量使用，点缀特定歌词乐句并保持未来主义美学。
