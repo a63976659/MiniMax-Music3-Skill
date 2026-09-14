@@ -1,0 +1,16 @@
+全局元数据
+基础属性：BPM 为 140。调性为 C，音阶为大调。渐进浩室 (Progressive House) / 人声迷幻舞曲 (Vocal Trance)。
+全局情绪走向：乐曲以空间感充裕、氛围感忧郁的基调开场，通过层层器乐编排逐渐积蓄张力。第一个 Drop 释放出欣快而富有驱动力的能量，营造翱翔般的释放感。这种强度随后回落至更为亲密、精简的桥段 (Bridge)，再次涌起进入最终的颂歌般高潮，消融于余韵绵长、回声弥漫的淡出中。
+应用场景与意象：适合黄金时段的音乐节 set、城市灯光下深夜高速公路驾车，或描绘浩瀚宇宙景观与天体运动的视觉画面。
+声音质感与制作风格：制作呈现出宏大、宽广的声场 (soundstage)，混音纯净、高保真。高频段明亮通透，与紧实有力、控制精准的低频形成均衡。动态美学从主歌 (Verse) 的通透开阔转变为副歌 (Chorus) 和 Drop 段落的重度压缩与"音墙"般密集。
+人声细节
+歌者性别与音色：Singer A (Female)。歌者拥有清澈、空灵的女高音 (soprano) 音色，略带气声 (breathy) 质地，兼具脆弱感与力量感。
+演唱风格：主歌 (Verse) 以柔和、富有情感的演绎开场，运用微妙的颤音 (vibrato)。随着乐曲推进至副歌 (Chorus) 和 Drop 段落，风格演变为强有力的强声投射 (belting projection)，以持续音为特征，即使在更高强度下仍保持空灵特质。
+和声/伴唱：多轨自和声 (self-harmonies) 在副歌 (Chorus) 中显著出现，营造丰满的合唱效果，加厚旋律线。Drop 段落中，主唱常被 chopped 并重新编排为节奏与旋律钩子 (hook)，叠加移调 (pitch-shifted) 变体。
+人声效果：人声全程施以丰富的大厅混响 (hall reverb) 和延迟 (delay) 以增强空间感。铺垫推进段 (build-up) 中，上升滤波器扫频 (filter sweep) 和渐强延迟重复营造张力。Drop 段落中，重度侧链压缩 (side-chain compression) 使人声随底鼓节奏"抽吸 (pumping)"，特定乐句被切片 (sliced) 和卡顿处理 (stuttered) 以增强节奏冲击力。
+编曲
+乐器生命周期描述（主层/副层叠置）：
+主层：一个明亮的锯齿波 (saw-wave) 合成器主奏在 Drop 段落承担主要旋律钩子 (hook)，以锐利的起音 (attack) 和长释放 (release) 为特征。一个温暖、不断演进的铺底合成器 (pad synth) 从前奏 (Intro) 到尾奏 (Outro) 提供持续的和声床，填充中频段。
+副层：一个深沉、滚动感的超低频合成器 (sub-bass synth) 在第一段主歌 (Verse) 微妙进入，在副歌 (Chorus) 和 Drop 段落成为驱动性的低频力量。一架原声风格钢琴 (acoustic-style piano) 在前奏 (Intro) 和主歌 (Verse) 演奏琶音 (arpeggiated) 音型，在高能量段落消失以为电子元素让出空间。
+律动与根基声部走向：节奏组以前奏 (Intro) 中极简的四踩底鼓 (four-on-the-floor kick) 和柔和踩镲 (hi-hat) 起步。随着乐曲推进，军鼓滚奏 (snare roll) 和开放式踩镲 (open hi-hat) 加速节奏感知。Drop 引入全力底鼓 (kick drum)，瞬态 (transient) 鲜明，配以第2、4拍的拍掌军鼓 (clapping snare) 和快速切分 (syncopated) 踩镲模式驱动舞曲能量。桥段 (Bridge) 中律动短暂简化，随后回归全强度终章。
+点缀、织体与空间效果：白噪声上升器 (white noise riser) 和扫频滤波器效果 (sweeping filter effect) 被大量用于段落间过渡，尤其是引入 Drop 的部分。反向吊镲渐强 (reverse cymbal swell) 和冲击音 (impact hit) 标记新乐句的起始。氛围感颗粒质感 (granular texture) 和微妙的背景嗡鸣 (drone) 为 Breakdown 增添纵深，合成器琶音的自动声像 (automated panning) 在立体声场中营造运动感。

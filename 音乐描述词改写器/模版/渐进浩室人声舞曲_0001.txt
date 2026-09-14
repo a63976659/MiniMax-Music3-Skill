@@ -1,0 +1,16 @@
+全局元数据
+基础属性：BPM 为 133。调性为 A，音阶为小调。渐进浩室 (Progressive House) / 人声舞曲 (Vocal Dance)。
+全局情绪走向：乐曲以阴沉、充满氛围感的张力开场，在主歌 (Verse) 段落逐渐积蓄，营造出期待感。这种张力在副歌 (Chorus) 中释放为充满能量与驱动力的段落，以强烈的节奏涌动为特征，随后下沉至更为精简、旋律性更强的桥段 (Bridge)，重新锚定情感核心。终章回归高能量律动，以自信而坚定的解决收束。
+应用场景与意象：适合深夜俱乐部环境、音乐节主舞台的黄金时段，或高强度健身训练。意象唤起暴风雨海岸景观过渡到明亮 illuminated 地平线的画面，象征韧性与前行。
+声音质感与制作风格：制作呈现出宽广、开阔的声场 (soundstage)，高频清脆精致，低频紧实有力。混音大量使用压缩以获得最大响度与冲击力，这是现代舞曲的典型特征，同时通过精细的侧链门控 (side-chain gating) 保持通透感，让底鼓 (kick drum) 能够穿透密集的合成器层。
+人声细节
+歌者性别与音色：Singer A (Female)。歌者拥有清澈、略带气声 (breathy) 的女中音 (mezzo-soprano) 音色，在主歌 (Verse) 中传递脆弱感，在副歌 (Chorus) 中展现统御力。
+演唱风格：主歌 (Verse) 以克制、叙事性的演绎开场，运用微妙的动态涌起 (dynamic swell) 积蓄情感。随着乐曲推进至副歌 (Chorus)，风格转向更强力、更富投射感的强声 (belting) 演绎，节奏精准度提升，与不断加强的器乐背景相匹配。
+和声/伴唱：多层自和声 (self-harmonies) 在副歌 (Chorus) 和副歌后段落显著出现，常以三度和五度叠加以营造丰满的颂歌般织体。在 Drop 段落，chopped 人声采样被按节奏编排为旋律钩子 (hook)，为人声编排增添打击乐元素。
+人声效果：主唱施以适度的板式混响 (plate reverb) 和微妙的延迟 (delay)，增强空间纵深感而不模糊咬字。铺垫推进段 (build-up) 中施加上升滤波器扫频 (filter sweep) 和渐强的混响尾巴以制造张力。Drop 段落的人声切片 (vocal chop) 经过重度门控 (gating)、移调 (pitch-shifting) 和卡顿效果 (stutter effect) 处理，与电子器乐无缝融合。
+编曲
+乐器生命周期描述（主层/副层叠置）：
+主层：一个明亮的锯齿波 (saw-wave) 合成器主奏承担主要旋律钩子 (hook)，在第一个副歌 (Chorus) 全面进入，并在整首乐曲中反复出现，滤波器截止频率和调制略有变化。一个深沉、经侧链 (side-chain) 处理的超低频合成器 (sub-bass synth) 从第一段主歌 (Verse) 起支撑和声，与底鼓 (kick drum) 紧密锁定以驱动律动 (groove)。
+副层：氛围感铺底合成器 (pad synth) 在前奏 (Intro) 和主歌 (Verse) 提供持续的和声床，在高能量 Drop 段落略微后退为主奏元素让出空间。一条琶音 (arpeggiated) 合成器旋律线在导歌 (Pre-Chorus) 和桥段 (Bridge) 增添节奏复杂性，向高潮时刻积蓄动能。
+律动与根基声部走向：节奏组以经典四踩底鼓 (four-on-the-floor kick) 模式为锚点贯穿全曲，提供稳定脉搏。主歌 (Verse) 中打击乐较为精简，以闭合踩镲 (closed hi-hat) 和偶尔的军鼓滚奏 (snare roll) 为主。副歌 (Chorus) 引入更完整的架子鼓 (drum kit)——第2、4拍叠加拍掌 (clap)、反拍的开放式踩镲 (open hi-hat) 以及重音吊镲 (crash cymbal) 落在正拍，显著提升乐曲能量。桥段 (Bridge) 减至半倍速感 (half-time feel)，聚焦底鼓与经滤波处理的军鼓 (snare)，在最终 Drop 前营造动态对比。
+点缀、织体与空间效果：白噪声上升器 (white noise riser) 和反向吊镲渐强 (reverse cymbal swell) 被策略性地放置在乐句末端以标示过渡、积蓄期待。冲击音 (impact hit) 和低频下潜冲击 (sub-drop) 在每个副歌 (Chorus) 和 Drop 的起始处点缀，增添重量感与戏剧性。微妙的颗粒质感 (granular texture) 和环境田野录音（类似风声或水声）被编织进主歌 (Verse) 背景中，增强主题氛围而不使混音显得杂乱。
