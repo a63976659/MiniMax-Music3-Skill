@@ -1,0 +1,16 @@
+全局元数据
+基础属性：bpm 为 86。调性为 Eb，音阶为大调。Lo-fi Hip Hop / 爵士说唱 (Jazz Rap)。
+全局情绪走向：曲目从一开始就确立冷峻、沉思、匠心独具的氛围，全程保持稳定、慵懒的律动 (groove)。情绪基调在说唱主歌 (Verse) 扎实、节奏感十足的自信，与演唱副歌 (Chorus) 空灵、飘渺的释放之间微妙转换，形成专注与松弛之间的动态交织，最终归于平滑、淡去的结尾。
+应用场景与意象：适合深夜学习、创意工作坊，或黄昏时分的城市漫游；唤起灯光昏暗的爵士俱乐部、匠人的锻炉，或是雨水划过的城市窗景等意象。
+声音质感与制作风格：声场亲密而温暖，高频略有滚降 (rolled-off) 的频响是复古采样 (vintage sampling) 美学的特征。混音在深沉、圆润的低频与清脆的中频打击乐之间取得平衡，施以适度压缩保持「点头式 (head-nodding)」的一致动态，同时不牺牲原声元素自然的呼吸空间。
+人声细节
+歌者性别与音色：Singer A (Male) 与 Singer B (Female)。Singer A 拥有清晰、咬字分明的男中音 (baritone)，带着干声 (dry)、贴麦 (close-mic) 的质感，传递出自信与叙事聚焦感。Singer B 是柔软、气声 (breathy) 的女次中音 (mezzo-soprano) 音色，飘浮而富旋律感，与说唱歌者形成鲜明的织体对比。
+演唱风格：Singer A 以精准、富节奏感的 flow 演绎主歌，强调歌词的灵巧与叙事性，在混音中保持相对干声。Singer B 运用平滑、受 R&B 影响的演唱风格，带有温柔的转音 (melismatic runs)，尤其在副歌 (Chorus) 与桥段 (Bridge) 中，为曲目增添一层灵魂味。
+和声/伴唱：由 Singer B 演唱的细微层叠和声出现在副歌中，加厚旋律织体，以柔和的平行音程 (parallel intervals) 支撑主唱线条。Singer A 偶尔的即兴加花 (ad-libs) 与背景回声点缀段落之间的转换。
+人声效果：Singer A 的人声施以轻压缩 (compression) 与极少的混响 (reverb)，保持靠前与亲密感。Singer B 的人声则以丰润的板式混响 (plate reverb) 与细微延迟 (delay) 润饰，营造出空旷、梦幻的光环，使她的声音与更干声的说唱主歌区分开来。
+编曲
+乐器生命周期描述（主层/副层叠置）：
+主层：一段采样的原声萨克斯 (sampled acoustic saxophone) 循环担任主要旋律钩子 (Hook)，演奏一段惆怅、爵士味十足的乐句，在全曲中反复，锚定和声结构。
+副层：一条温暖、行走中的立式贝斯线 (walking upright bass line) 在前奏 (Intro) 后不久进入，提供富律动感、有机 (organic) 的低频根基，与鼓动态互动。一台音色干净的电钢琴 (electric piano) 在背景中加入稀疏、爵士风的和弦短奏 (stabs)，在主歌 (Verse) 中充实和声空间。
+律动与根基声部走向：节奏组由经典的 boom-bap 鼓节奏型驱动，配有有冲击力的底鼓 (kick)、落在第 2、4 拍上清脆的军鼓 (snare)，以及带摇摆感 (swung) 的踩镲 (hi-hats)，营造松弛、shuffle 式的感觉。律动 (groove) 保持一致，但副歌中通过柔和的鼓边敲击 (rim-shot) 重音与略微更活跃的贝斯线获得微妙的强度提升。
+点缀、织体与空间效果：全程都有黑胶爆豆声 (vinyl crackle) 与磁带嘶声 (tape hiss) 织体，强化 Lo-fi 美学。桥段 (Bridge) 中，偶尔的爵士吉他拨弦与细微的合成器铺底 (synth pads) 浮现于背景以增添深度。过渡性的嗖声 (swooshes) 与反向吊镲涌起 (reversed cymbal swells) 被节制地用于标记段落变化，尾奏 (Outro) 则逐渐滤去高频，模拟磁带停转 (tape stop) 效果。
